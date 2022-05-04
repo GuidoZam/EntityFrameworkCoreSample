@@ -53,3 +53,4 @@ C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrame
 C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Program\obj\Debug\net6.0\EntityFrameworkCoreSample.Program.pdb
 C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Program\obj\Debug\net6.0\EntityFrameworkCoreSample.Program.genruntimeconfig.cache
 C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Program\obj\Debug\net6.0\ref\EntityFrameworkCoreSample.Program.dll
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Program\bin\Debug\net6.0\appsettings.json

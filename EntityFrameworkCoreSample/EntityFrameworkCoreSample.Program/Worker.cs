@@ -24,7 +24,14 @@ namespace EntityFrameworkCoreSample.Program
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            Console.WriteLine("Hello world!");
+            // Test the database for data
+            var people = _dbContext.People.Take(10).ToList();
+
+            foreach (var person in people)
+            {
+                Console.WriteLine($"{person.FirstName} {person.LastName}");
+            }
+
             _host.StopAsync();
         }
     }
