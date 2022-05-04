@@ -1,0 +1,14 @@
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\bin\Debug\net6.0\EntityFrameworkCoreSample.Data.deps.json
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\bin\Debug\net6.0\EntityFrameworkCoreSample.Data.runtimeconfig.json
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\bin\Debug\net6.0\EntityFrameworkCoreSample.Data.dll
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\bin\Debug\net6.0\EntityFrameworkCoreSample.Data.pdb
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.csproj.AssemblyReference.cache
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.AssemblyInfoInputs.cache
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.AssemblyInfo.cs
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.csproj.CoreCompileInputs.cache
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.dll
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\refint\EntityFrameworkCoreSample.Data.dll
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.pdb
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\EntityFrameworkCoreSample.Data.genruntimeconfig.cache
+C:\Sorgenti\Blog\EntityFrameworkCoreSample\EntityFrameworkCoreSample\EntityFrameworkCoreSample.Data\obj\Debug\net6.0\ref\EntityFrameworkCoreSample.Data.dll
